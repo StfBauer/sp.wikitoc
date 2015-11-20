@@ -1,5 +1,8 @@
+
 # SharePoint Wiki - Table of content extension - sp.wiki.toc
-![SharePoint Table of Contents](sp.wikitoc.png = 250x250) jQuery extension to enhance SharePoint Wiki and publishing pages with an table of contents.
+<img src="https://raw.githubusercontent.com/StfBauer/sp.wikitoc/master/sp.wikitoc.png" width="250" alt="SharePoint Table of Contents" style="float: left;">
+
+jQuery extension to enhance SharePoint Wiki and publishing pages with an table of contents.
 
 For now check out some blog posts about this plugin:
 
