@@ -17,8 +17,10 @@ If you have git installed you can clone this repository.
 ```
 // Clone this repository
 git git@github.com:StfBauer/sp.wiki.toc.git
+
 // Change to the project directory
 cd sp.wiki.toc
+
 // Install all node packages to build
 npm install
 ```
