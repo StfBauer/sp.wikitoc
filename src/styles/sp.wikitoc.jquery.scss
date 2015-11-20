@@ -1,3 +1,27 @@
-body{
-	color: black;
+.tocMain{
+    border-bottom: 1px #333 dashed;
+    font-weight: bold;
+    a{
+        &:active{
+            font-weight: bold;
+        }
+        &:hover{
+            font-weight: bold;
+        }
+        &:visited{
+            color: rgb(0, 114, 198);
+        }
+    }
+    &.no-bullets{
+        padding: 0px;
+        padding-bottom: 1em;
+        list-style-type: none;
+        ul{
+            padding-left: 20px;
+        }
+        li{
+            list-style-type: none;
+            padding: 0.25em 0em;
+        }
+    }
 }
