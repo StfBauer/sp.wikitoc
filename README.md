@@ -3,8 +3,8 @@
 jQuery extension to enhance SharePoint Wiki and publishing pages with an table of contents.
 
 For now check out some blog posts about this plugin:
-[Revised: Table of contents for SharePoint wiki pages](http://www.n8d.at/blog/revised-table-of-contents-for-wiki-pages/)
 
+* [Revised: Table of contents for SharePoint wiki pages](http://www.n8d.at/blog/revised-table-of-contents-for-wiki-pages/)
 * [How to use: Table of Contents jQuery plugin](http://www.n8d.at/blog/how-to-use-table-of-content-jquery-plugin/) - the file names have been changed in this version. Instead of sp.tableofcotents
 
 # Global Dependencies
